@@ -12,8 +12,4 @@ I have been experimenting with a wire-graph approach to hooking up my synthesize
 
 <iframe width="100%" height="560" src="https://www.youtube.com/embed/1pwffO_61vU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="ui section divider"></div>
-<section id="socialMediaLinks"></section>
-<div class="ui section divider"></div>
-<div id="disqus_thread"></div>
 

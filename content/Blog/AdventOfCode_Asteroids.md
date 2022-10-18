@@ -15,7 +15,3 @@ The problem was to simulate a set of stars and figure out the password they spel
 
 https://www.reddit.com/r/adventofcode/comments/a4xzuf/solved_inside_an_asteroids_game/?utm_source=share&utm_medium=web2x
 
-<div class="ui section divider"></div>
-<section id="socialMediaLinks"></section>
-<div class="ui section divider"></div>
-<div id="disqus_thread"></div>
