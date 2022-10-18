@@ -1,0 +1,43 @@
+- The [Sonic Pi Forum](https://in-thread.sonic-pi.net/) and [Sonic Pi On Stack Overflow Blog](https://stackoverflow.blog/2020/01/29/the-live-coding-language-that-lets-you-be-an-actual-rock-star/)
+- [Kortex](https://mindbuffer.net/kortex)
+- [Imi Tone](https://www.kickstarter.com/projects/evanbalster/imitone-mind-to-melody)
+- [Grid Sound](https://gridsound.com/#/)
+- Awesome [Audio](https://github.com/willianjusten/awesome-audio-visualization) Visualization - a curated list
+- [Software for Graphics Thread on lines](https://llllllll.co/t/software-to-create-procedural-graphics/27660/10)
+- [Hydra Book](https://naotohieda.com/blog/hydra-book/)
+- [Interactive Shader Format](https://www.interactiveshaderformat.com/)
+- [Lua + OSC bindings for Open Frameworks](https://github.com/danomatika/loaf)
+- [Ear Sketch, Georgia Tech](https://earsketch.gatech.edu/landing/#/)
+- [xi LiveCode](https://github.com/xi-livecode/xi)
+- [Sequencer, unknown demo HMH](https://www.youtube.com/watch?v=x7c-9dXZouo&feature=youtu.be)
+- [Sketch Synth](https://github.com/jeonghopark/SketchSynth-Simple)
+- [Live coding in Rust](https://nannou.cc/)
+- [Kode Life](https://hexler.net/products/kodelife), a great live coding tool for graphics
+- [Bicycles for the mind](https://github.com/pel-daniel/mind-bicycles), a list of future of programming projects
+- [Alive Coding](https://s-ol.nu/alivecoding)
+- [Pure Data](http://msp.ucsd.edu/Pd_documentation/), a wire and box visual programming environment
+- [Max MSP](https://cycling74.com/products/max/) is a for-sale product based on Pure Data with a professional UI
+- [WDL-OL for VST](https://github.com/justinfrankel/WDL)
+- [Layered Graph Drawing](https://en.wikipedia.org/wiki/Layered_graph_drawing)
+- [Automatic graph layout](https://en.wikipedia.org/wiki/Microsoft_Automatic_Graph_Layout)
+- [CEPL](https://github.com/cbaggers/cepl)
+- [Projection Boxes](http://cseweb.ucsd.edu/~lerner/papers/projection-boxes-chi2020.pdf)
+- [Glamorous Toolkit](https://gtoolkit.com/)
+- [Cellular Automation Demo](https://movablefeastmachine.org/)
+- [Shader Toy launcher for Vulkan](https://github.com/danilw/vulkan-shadertoy-launcher)
+- [Shad2: Worse than Shaders](https://jmickle66666666.github.io/blog/2020/06/27/SHAD2.html)
+- [MPS DSL by ~JetBrains](https://www.jetbrains.com/mps/)
+- [MicroUI](https://github.com/cmaughan/microui)
+- [Gray Crawford VR Tools](https://www.graycrawford.com/)
+- [Shader Chain](https://connorbell.itch.io/shaderchain)
+- [Jeskola Buzz](http://jeskola.net/buzz/)
+- [Gibber](http://www.charlie-roberts.com/pubs/gibber_music_2015_ICMC.pdf) is a javascript based live coding environment in the browser
+- [Tiny Structure Editors](http://people.cs.uchicago.edu/~rchugh/static/papers/vlhcc20-tse.pdf)
+- [NodeBox](https://www.nodebox.net/node/)
+- [AudioMulch](http://www.audiomulch.com/)
+- A text-based micro tonal synthesizer: [XenPaper](https://xenpaper.com/)
+- [Glicol](https://glicol.org) - Rust live coding in the browser 
+- [Nodal](https://nodalmusic.com/), a Graph based music network 
+- [Nodes.io](https://nodes.io/story/) a node graph editor for interactive visualizations
+- [Ludo Tune](https://ludotune.com/) a block-based music system; like minecraft for sound
+- [ImGui](https://greggman.github.io/doodles/glfw-imgui/out/glfw-imgui.html) On a website
